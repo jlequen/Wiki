@@ -10,8 +10,8 @@ Seulement l'encodage en base64 de la commande n'est pas suffisante.
 
 ## Encoder une commande Powershell
 
-Pour encoder une commande Powershell, il est d'abord nécessaire d'encoder la chaine de caractère en UTF-16LE, puis en Base64
+Pour encoder une commande Powershell, il est d'abord nécessaire d'encoder la chaine de caractère en **UTF-16LE**, puis en **Base64**.
 
 ## Décoder une commande Powershell
 
-Pour Décoder une commande Powershell, il faut commencer par décoder la base64, puis décoder l'UTF-16LE
+Pour Décoder une commande Powershell, il faut commencer par décoder la **Base64**, puis décoder l'**UTF-16LE**.
